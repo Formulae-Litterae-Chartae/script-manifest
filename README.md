@@ -1,4 +1,4 @@
-<h1>Viewer Part 
+<h1>Viewer Part </h1>
 The viewer part work with the viewer Mirador. This viewer asks to have only IIIF manifest so you have multiple possibility to create or use this manifests. 
 
 1°) Manifest for Mirador
