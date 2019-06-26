@@ -1,7 +1,7 @@
 <h1>Viewer Part </h1>
 The viewer part work with the viewer Mirador. This viewer asks to have only IIIF manifest so you have multiple possibility to create or use this manifests. 
 
-1°) Manifest for Mirador
+<h2>1°) Manifest for Mirador</h2>
 
 Mirador is complet viewer with all the option integraded directly but he need to have a complet manifest IIIF to work and to follow the complet structure:
 [Link to manifest presentation](http://ronallo.com/iiif-workshop/presentation/manifest.html)
@@ -14,7 +14,7 @@ https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest/
 We can give directly the link of the codex if this  have one manifest by formulae. 
 Otherwise, we need to recreate one manifest by formulae and for that, we take the full manifest for base.
 
-2°) Create all the information for the viewer with one script
+<h2>2°) Create all the information for the viewer with one script</h2>
 
 The manifest could be created by one library. But if you don’t have one manifest for the codex, you can create a complete manifest with this website: 
 https://digital.bodleian.ox.ac.uk/manifest-editor/
@@ -49,7 +49,7 @@ images : It’s a dictionnary who contains all the images. Eache key must be the
 
 An exemple of the complete view :
 
-3°) The mapping
+<h2>3°) The mapping</h2>
 
 All the information about the mapping is in one Json files Mapping.json. H must follow this structure: Each key must the urn and inside this key, you open one dictionnary, who must have manifest for key and for value the path of the json files
 
