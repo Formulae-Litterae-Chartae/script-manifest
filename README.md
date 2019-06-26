@@ -6,7 +6,7 @@ The viewer part work with the viewer Mirador. This viewer asks to have only IIIF
 Mirador is complet viewer with all the option integraded directly but he need to have a complet manifest IIIF to work and to follow the complet structure:
 [Link to manifest presentation](http://ronallo.com/iiif-workshop/presentation/manifest.html)
 
-
+![imagemanifest](/Images/conception_manifest.png)
 
 The structure of one manifest part must be always in the same type, you can look the exemple of the codex of the formulae of Angers :
 https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest/
