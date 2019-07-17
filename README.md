@@ -30,7 +30,7 @@ title : The value must be the complete urn of the formulae.
 manifest_link : It’s the link of the manifest with all the picture.
 images : It’s a dictionnary who contains all the images. Eache key must be the name of the label of the futur images and the value must be the image id of you need for your formulae
 
-![image_creation_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_manifest_image.png)
+![image_creation_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_manifest_all.png)
 
 The second type is when you want to take an manifest who is online, to create this locally.
 He need only two keys :
@@ -45,11 +45,11 @@ title : The value must be the complete urn of the formulae.
 label : It’s the name of the formulae or the codex
 images : It’s a dictionnary who contains all the images. Eache key must be the name of the label of the futur images and the value must be the link who contains the IIIF json of the picture than you need
 
-![image_creation_manifest_image](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_image.png)
+![image_creation_manifest_image](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_withoutexternal.png)
 
 An exemple of the complete view :
 
-![image_complete](https://github.com/Corentinfaye/script-manifest/blob/master/Images/complete_default.png)
+![image_complete](https://github.com/Corentinfaye/script-manifest/blob/master/Images/complete_Json_script.png)
 
 <h2>3°) The mapping</h2>
 
