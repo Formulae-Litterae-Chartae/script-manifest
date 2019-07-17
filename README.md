@@ -7,6 +7,7 @@ Mirador is complet viewer with all the option integraded directly but he need to
 [Link to manifest presentation](http://ronallo.com/iiif-workshop/presentation/manifest.html)
 
 ![imagemanifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/conception_manifest.png)
+Credits of the image: http://ronallo.com/iiif-workshop-new/presentation-api/manifest/manifest-structure.html
 
 The structure of one manifest part must be always in the same type, you can look the exemple of the codex of the formulae of Angers :
 https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest/
@@ -28,28 +29,31 @@ The first type is when you know the different images that you need and you have 
 The three keys are :
 title : The value must be the complete urn of the formulae.
 manifest_link : It’s the link of the manifest with all the picture.
+codex_name : The name of the codex give by the library with the reference of the library.
 images : It’s a dictionnary who contains all the images. Eache key must be the name of the label of the futur images and the value must be the image id of you need for your formulae
 
-![image_creation_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_manifest_image.png)
+![image_creation_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_manifest_all.png)
 
 The second type is when you want to take an manifest who is online, to create this locally.
 He need only two keys :
 title : The value must be the complete urn of the formulae.
+codex_name : The name of the codex give by the library with the reference of the library.
 manifest_link : It’s the link of the manifest with all the picture.
 
-![image_copie_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_copie_manifest.png)
+![image_copie_manifest](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_copie_manifest.png)
 
 The third type is when you have only the json images in a IIIF serveur.
 The three keys for this possibility:
 title : The value must be the complete urn of the formulae.
-label : It’s the name of the formulae or the codex
-images : It’s a dictionnary who contains all the images. Eache key must be the name of the label of the futur images and the value must be the link who contains the IIIF json of the picture than you need
+label : It’s the name of the formulae or the codex.
+codex_name : The name of the codex give by the library with the reference of the library.
+images : It’s a dictionnary who contains all the images. Eache key must be the name of the label of the futur images and the value must be the link who contains the IIIF json of the picture than you need.
 
-![image_creation_manifest_image](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_image.png)
+![image_creation_manifest_image](https://github.com/Corentinfaye/script-manifest/blob/master/Images/default_creation_withoutexternal.png)
 
 An exemple of the complete view :
 
-![image_complete](https://github.com/Corentinfaye/script-manifest/blob/master/Images/complete_default.png)
+![image_complete](https://github.com/Corentinfaye/script-manifest/blob/master/Images/complete_Json_script.png)
 
 <h2>3°) The mapping</h2>
 
