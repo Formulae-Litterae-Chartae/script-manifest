@@ -1,7 +1,8 @@
 {
 	"andecavensis": [{
-			"title": "urn:cts:formulae:andecavensis.form001.lat001",
+			"title": "urn:cts:formulae:andecavensis.form001",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"136r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/273",
 				"136v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/274",
@@ -13,55 +14,62 @@
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form002.lat001",
+			"title": "urn:cts:formulae:andecavensis.form002",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"139r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/277",
 				"139v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/278"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form003.lat001",
+			"title": "urn:cts:formulae:andecavensis.form003",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"139v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/278",
 				"140r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/283"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form004.lat001",
+			"title": "urn:cts:formulae:andecavensis.form004",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"140v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/284",
 				"141r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/281"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form005.lat001",
+			"title": "urn:cts:formulae:andecavensis.form005",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"141r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/281"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form006.lat001",
+			"title": "urn:cts:formulae:andecavensis.form006",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"141r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/281",
 				"141v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/282"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form007.lat001",
+			"title": "urn:cts:formulae:andecavensis.form007",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"141v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/282",
 				"142r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/285"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form008.lat001",
+			"title": "urn:cts:formulae:andecavensis.form008",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"142r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/285",
 				"142v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/286",
@@ -69,16 +77,18 @@
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form009.lat001",
+			"title": "urn:cts:formulae:andecavensis.form009",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"143r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/287",
 				"143v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/288"
 			}
 		},
 		{
-			"title": "urn:cts:formulae:andecavensis.form010.lat001",
+			"title": "urn:cts:formulae:andecavensis.form010",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"143v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/288",
 				"144r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/289",
@@ -86,8 +96,9 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form011.lat001",
+			"title": "urn:cts:formulae:andecavensis.form011",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"144v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/290",
 				"145r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/291",
@@ -95,102 +106,115 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form012.lat001",
+			"title": "urn:cts:formulae:andecavensis.form012",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"145v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/292",
 				"146r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/293"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form013.lat001",
+			"title": "urn:cts:formulae:andecavensis.form013",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"146r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/293",
 				"146v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/294"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form014.lat001",
+			"title": "urn:cts:formulae:andecavensis.form014",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"146v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/294",
 				"147r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/295"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form015.lat001",
+			"title": "urn:cts:formulae:andecavensis.form015",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"147r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/295",
 				"147v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/296"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form016.lat001",
+			"title": "urn:cts:formulae:andecavensis.form016",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"147v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/296",
 				"148r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/297"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form017.lat001",
+			"title": "urn:cts:formulae:andecavensis.form017",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"148r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/297",
 				"148v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/298"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form018.lat001",
+			"title": "urn:cts:formulae:andecavensis.form018",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"148v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/298"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form019.lat001",
+			"title": "urn:cts:formulae:andecavensis.form019",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"149r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/299",
 				"149v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/300"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form020.lat001",
+			"title": "urn:cts:formulae:andecavensis.form020",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"149v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/300",
 				"150r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/301"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form021.lat001",
+			"title": "urn:cts:formulae:andecavensis.form021",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"150r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/301",
 				"150v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/302"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form022.lat001",
+			"title": "urn:cts:formulae:andecavensis.form022",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"151r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/303"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form023.lat001",
+			"title": "urn:cts:formulae:andecavensis.form023",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"151v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/304",
 				"152r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/305"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form024.lat001",
+			"title": "urn:cts:formulae:andecavensis.form024",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"152r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/305",
 				"152v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/306",
@@ -198,32 +222,36 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form025.lat001",
+			"title": "urn:cts:formulae:andecavensis.form025",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"153r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/307",
 				"153v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/308"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form026.lat001",
+			"title": "urn:cts:formulae:andecavensis.form026",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"153v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/308",
 				"154r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/309"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form027.lat001",
+			"title": "urn:cts:formulae:andecavensis.form027",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"154r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/309",
 				"154v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/310"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form028.lat001",
+			"title": "urn:cts:formulae:andecavensis.form028",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"154v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/310",
 				"155r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/311",
@@ -231,16 +259,18 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form029.lat001",
+			"title": "urn:cts:formulae:andecavensis.form029",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"155v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/312",
 				"156r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/313"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form030.lat001",
+			"title": "urn:cts:formulae:andecavensis.form030",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"156r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/313",
 				"156v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/314",
@@ -248,16 +278,18 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form031.lat001",
+			"title": "urn:cts:formulae:andecavensis.form031",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"157r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/315",
 				"157v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/316"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form032.lat001",
+			"title": "urn:cts:formulae:andecavensis.form032",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"157v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/316",
 				"158r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/317",
@@ -266,8 +298,9 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form033.lat001",
+			"title": "urn:cts:formulae:andecavensis.form033",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"159r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/319",
 				"159v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/320",
@@ -276,31 +309,35 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form034.lat001",
+			"title": "urn:cts:formulae:andecavensis.form034",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"160v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/322",
 				"161r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/323"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form035.lat001",
+			"title": "urn:cts:formulae:andecavensis.form035",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"161r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/323",
 				"161v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/324"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form036.lat001",
+			"title": "urn:cts:formulae:andecavensis.form036",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"161v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/324"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form037.lat001",
+			"title": "urn:cts:formulae:andecavensis.form037",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"162r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/325",
 				"162v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/326",
@@ -308,16 +345,18 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form038.lat001",
+			"title": "urn:cts:formulae:andecavensis.form038",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"163r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/327",
 				"163v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/328"
 			}
 		},	
         {
-			"title": "urn:cts:formulae:andecavensis.form039.lat001",
+			"title": "urn:cts:formulae:andecavensis.form039",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"163v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/328",
 				"164r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/329",
@@ -325,8 +364,9 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form040.lat001",
+			"title": "urn:cts:formulae:andecavensis.form040",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"164v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/330",
 				"165r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/331",
@@ -334,8 +374,9 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form041.lat001",
+			"title": "urn:cts:formulae:andecavensis.form041",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"165v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/332",
 				"166r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/333",
@@ -345,23 +386,26 @@
 			}
 		},	
         {
-			"title": "urn:cts:formulae:andecavensis.form042.lat001",
+			"title": "urn:cts:formulae:andecavensis.form042",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
 				"167v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/336",
 				"168r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/337"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form043.lat001",
+			"title": "urn:cts:formulae:andecavensis.form043",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "168v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/338"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form044.lat001",
+			"title": "urn:cts:formulae:andecavensis.form044",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "168v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/338",
                 "169r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/339",
@@ -369,16 +413,18 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form045.lat001",
+			"title": "urn:cts:formulae:andecavensis.form045",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "169v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/340",
                 "170r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/341"
 			}
 		},	
         {
-			"title": "urn:cts:formulae:andecavensis.form046.lat001",
+			"title": "urn:cts:formulae:andecavensis.form046",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "170r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/341",
                 "170v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/342",
@@ -388,32 +434,36 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form047.lat001",
+			"title": "urn:cts:formulae:andecavensis.form047",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "172r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/345",
                 "172v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/346"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form048.lat001",
+			"title": "urn:cts:formulae:andecavensis.form048",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "172v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/346",
                 "173r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/347"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form049.lat001",
+			"title": "urn:cts:formulae:andecavensis.form049",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "173r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/347",
                 "173v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/348"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form050.lat001",
+			"title": "urn:cts:formulae:andecavensis.form050",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "173v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/348",
                 "174r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/349",
@@ -422,31 +472,35 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form051.lat001",
+			"title": "urn:cts:formulae:andecavensis.form051",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "175v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/352"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form052.lat001",
+			"title": "urn:cts:formulae:andecavensis.form052",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "175v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/352",
                 "176r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/353"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form053.lat001",
+			"title": "urn:cts:formulae:andecavensis.form053",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "176r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/353",
                 "176v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/354"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form054.lat001",
+			"title": "urn:cts:formulae:andecavensis.form054",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "176v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/354",
                 "177r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/355",
@@ -455,32 +509,36 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form055.lat001",
+			"title": "urn:cts:formulae:andecavensis.form055",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "178r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/357",
                 "178v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/358"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form056.lat001",
+			"title": "urn:cts:formulae:andecavensis.form056",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "178v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/358",
                 "179r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/359"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form057.lat001",
+			"title": "urn:cts:formulae:andecavensis.form057",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "179v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/360",
                 "180r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/361"
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form058.lat001",
+			"title": "urn:cts:formulae:andecavensis.form058",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "182r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/365",
                 "182v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/366",
@@ -488,8 +546,9 @@
 			}
 		},
         {
-			"title": "urn:cts:formulae:andecavensis.form059.lat001",
+			"title": "urn:cts:formulae:andecavensis.form059",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "183r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/367",
                 "183v": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/368",
@@ -497,8 +556,9 @@
 			}
 		},		
         {
-			"title": "urn:cts:formulae:andecavensis.form060.lat001",
+			"title": "urn:cts:formulae:andecavensis.form060",
 			"manifest_link": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/manifest",
+			"codex_name": "Fulda Hessische Landesbibliotheke D1",
 			"images": {
                 "184r": "https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN397372442/canvas/369"
 			}
