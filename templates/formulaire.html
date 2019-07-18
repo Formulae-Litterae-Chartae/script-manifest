@@ -1,0 +1,157 @@
+{% extends "conteneur.html" %}
+{% block corps %}
+<h1>Formulaire</h1>
+<form action = "http://localhost:5000/" method = "POST">
+    <div class="panel panel-info">
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Name of Corpus :</label>
+            <div class="col-sm-10">
+            <input type="text" class="form-control" id="Name_Corpus" name="Name of Corpus"  placeholder="Name of Corpus" value="">
+            </div>
+        </div>
+        <br><br>
+    <!-- Text input-->
+    <div id="field">
+    <div id="field0">
+        <div class="form-group row flex-v-center">
+            <div class="col-md-6 col-xs-12">
+              <label class="col-md-4 control-label" for="title_id0">Title :</label>
+              <div class="col-xs-12">
+              <input id="title_id0" name="title_id0" type="text" placeholder="" class="form-control input-md">
+              </div>
+            </div>
+            <!-- Text input-->
+            <div class="col-md-6 col-xs-12">
+              <label class="col-md-4 control-label" for="codex_name0">Name of the codex :</label>
+              <div class="col-xs-12">
+              <input id="codex_name0" name="codex_name0" type="text" placeholder="" class="form-control input-md">
+
+              </div>
+                <br><br>
+            </div>
+            <div class="col-md-12 col-xs-12">
+            <label class="col-sm-2 col-form-label">Manifest Link :</label>
+            <div class="col-sm-10">
+            <input id="manifest_link0" name="manifest_link0" type="text" placeholder="" class="form-control input-md">
+            </div>
+                <br><br>
+            </div>
+            <div class="form-group multiple-form-group container row">
+                <div class=" ">
+                </div>
+                <div class="col-md-2 col-xs-12">
+                <label class="control-label" for="folio_name0">Folio name :</label>
+                <div class="col-xs-12">
+                    <input type="text" id="folio_name0" name="folio_name0" class="form-control">
+                </div>
+                </div>
+                <div class="col-md-10 col-xs-12">
+                    <label class="col-sm-3 control-label" for="folio_link0">Folio link:</label>
+                <div class="col-xs-12">
+                    <span class="input-group-btn">
+                    <input type="text" id="folio_link0" name="folio_link0" class="form-control">
+                    <button type="button" class="btn btn-success btn-add">+</button>
+                </span>
+                </div>
+                </div>
+            </div>
+    <script type="text/javascript">
+    var next_images=1;
+(function ($) {
+
+    $(function () {
+
+        var addFormGroup = function (event) {
+            event.preventDefault();
+
+            var $formGroup = $(this).closest('.form-group');
+            var $multipleFormGroup = $formGroup.closest('.multiple-form-group');
+            var $formGroupClone = $formGroup.clone();
+            var new_image = '<div class="form-group multiple-form-group container row"><div class=" "></div><div class="col-md-2 col-xs-12"><label class="control-label" for="folio_name'+ next_images +'">Folio name :</label><div class="col-xs-12"><input type="text" id="folio_name'+ next_images +'" name="folio_name'+ next_images +'" class="form-control"></div></div><div class="col-md-10 col-xs-12"><label class="col-sm-3 control-label" for="folio_link'+ next_images +'">Folio link:</label><div class="col-xs-12"><span class="input-group-btn"><input type="text" id="folio_link'+ next_images +'" name="folio_link'+ next_images +'" class="form-control"><button type="button" class="btn btn-success btn-add">+</button></span></div></div></div>';
+            $(this)
+                .toggleClass('btn-success btn-add btn-danger btn-remove')
+                .html('–');
+
+            $formGroupClone.find('input').val('');
+            next_images = next_images +1;
+            $(new_image).insertAfter($formGroup);
+
+            var $lastFormGroupLast = $multipleFormGroup.find('.form-group:last');
+            if ($multipleFormGroup.data('max') <= countFormGroup($multipleFormGroup)) {
+                $lastFormGroupLast.find('.btn-add').attr('disabled', true);
+            }
+        };
+
+        var removeFormGroup = function (event) {
+            event.preventDefault();
+
+            var $formGroup = $(this).closest('.form-group');
+            var $multipleFormGroup = $formGroup.closest('.multiple-form-group');
+
+            var $lastFormGroupLast = $multipleFormGroup.find('.form-group:last');
+            if ($multipleFormGroup.data('max') >= countFormGroup($multipleFormGroup)) {
+                $lastFormGroupLast.find('.btn-add').attr('disabled', false);
+            }
+
+            $formGroup.remove();
+        };
+
+        var countFormGroup = function ($form) {
+            return $form.find('.form-group').length;
+        };
+
+        $(document).on('click', '.btn-add', addFormGroup);
+        $(document).on('click', '.btn-remove', removeFormGroup);
+
+    });
+})(jQuery);
+
+            $(document).ready(function () {
+            //@naresh action dynamic childs
+            var next = 0;
+            $("#add-more").click(function(e){
+                e.preventDefault();
+                var addto = "#field" + next;
+                var addRemove = "#field" + (next);
+                next = next + 1;
+                var newIn = ' <div id="field'+ next +'" name="field'+ next +'"><!-- Text input--><div class="form-group row flex-v-center"><div class="col-md-6 col-xs-12"> <label class="col-md-4 control-label" for="title_id'+ next +'">Title :</label> <div class="col-xs-12"><input id="title_id'+ next +'" name="title_id'+ next +'" type="text" placeholder="" class="form-control input-md"></div></div><div class="col-md-6 col-xs-12"><label class="col-md-4 control-label" for="codex_name'+ next +'">Name of the codex :</label><div class="col-xs-12"><input id="codex_name'+ next +'" name="codex_name'+ next +'" type="text" placeholder="" class="form-control input-md"></div><br><br></div><div class="col-md-12 col-xs-12"><label class="col-sm-2 col-form-label">Manifest Link :</label><div class="col-sm-10"><input id="manifest_link'+ next +'" name="manifest_link'+ next +'" type="text" placeholder="" class="form-control input-md"></div><br><br></div> <div class="form-group multiple-form-group container row"><div class=" "></div><div class="col-md-2 col-xs-12"><label class="control-label" for="folio_name'+ next_images +'">Folio name :</label><div class="col-xs-12"><input type="text" id="folio_name'+ next_images +'" name="folio_name'+ next_images +'" class="form-control"></div></div><div class="col-md-10 col-xs-12"><label class="col-sm-3 control-label" for="folio_link'+ next_images +'">Folio link:</label><div class="col-xs-12"><span class="input-group-btn"><input type="text" id="folio_link'+ next_images +'" name="folio_link'+ next_images +'" class="form-control"><button type="button" class="btn btn-success btn-add">+</button></span></div>';
+                var newInput = $(newIn);
+                next_images = next_images + 1;
+                var removeBtn = '<button id="remove' + (next - 1) + '" class="btn btn-danger remove-me" >Remove</button></div></div><div id="field">';
+                var removeButton = $(removeBtn);
+                $(addto).after(newInput);
+                $(addRemove).after(removeButton);
+                $("#field" + next).attr('data-source',$(addto).attr('data-source'));
+
+                    $('.remove-me').click(function(e){
+                        e.preventDefault();
+                        var fieldNum = this.id.charAt(this.id.length-1);
+                        var fieldID = "#field" + fieldNum;
+                        $(this).remove();
+                        $(fieldID).remove();
+                });
+            });
+
+});
+
+
+    </script>
+        </div>
+    </div>
+    </div>
+    <br>
+        <div class="form-group">
+          <div class="col-md-4">
+            <button id="add-more" name="add-more" class="btn btn-primary">Add More</button>
+          </div>
+        </div>
+    </div>
+    </div>
+    <body class="body">
+   <div class="container" align="left">
+		<button type='submit' class='btn btn-default'>Download!</button>
+   </div>
+</body>
+</form>
+
+{% endblock %}
