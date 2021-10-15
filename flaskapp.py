@@ -31,7 +31,7 @@ def form():
             elif "folio_link" in key:
                 dict_i["images"].update({label_image:value})
         dict[name_c].append(dict_i)
-        return Response(response=json.dumps(dict), mimetype="dict/json",headers={"Content-disposition":"attachment; filename=" + name_c + ".json"})
+        return Response(response=json.dumps(dict, ensure_ascii=False, indent='\t'), mimetype="dict/json",headers={"Content-disposition":"attachment; filename=" + name_c + ".json"})
     return render_template("formulaire.html")
 
 if __name__ == "__main__":

@@ -31,10 +31,10 @@ def create_mapping(args):
                 d[manifest["title"]]={"manifest":os.path.join(manifests,manifest["title"]+".json")}
                 os.makedirs(os.path.join(path,manifests), exist_ok=True)
                 with open(os.path.join(path,manifests,manifest["title"]+".json"),'w') as f:
-                    json.dump(dict_manifest,f)
+                    json.dump(dict_manifest, f, ensure_ascii=False, indent='\t')
 
         with open(os.path.join(path,"Mapping.json"), "w")as f:
-            json.dump(d,f)
+            json.dump(d, f, ensure_ascii=False, indent='\t')
 
 def create_manifest(manifest):
     filename=manifest["title"]
